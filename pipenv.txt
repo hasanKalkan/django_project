@@ -1,0 +1,7 @@
+İlk olarak, mevcut virtualenv sürümünüzü kaldırın: pip uninstall virtualenv
+Ardından, mevcut pipenv sürümünüzü kaldırın: pip uninstall pipenv
+Devam et (e/a) istendiğinde? sadece y'yi girin. Bu size temiz bir sayfa açacaktır.
+Son olarak, pipenv'i ve bağımlılıklarını bir kez daha kurabilirsiniz: pip install pipenv
+Pipenv --version ile kurulumu kontrol edin
+
+C:\Users\hasan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\Scripts
